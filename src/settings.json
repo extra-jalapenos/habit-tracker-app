@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "title": "Habit Tracker App Settings",
+  "description": "Configuration for Habit Tracker App",
+  "properties": {
+    "enableFeature": {
+      "type": "boolean",
+      "title": "Enable Feature",
+      "description": "Enable or disable the main feature",
+      "default": true
+    }
+  }
+}
