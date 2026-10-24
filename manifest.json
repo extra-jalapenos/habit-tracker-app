@@ -16,6 +16,14 @@
       "extensionPoint": "MAIN_MENU_ITEM",
       "iconPath": "enhanced-dx/widget-icon.svg",
       "description": "A YouTrack app created with TypeScript"
+    },
+    {
+      "key": "habit-dashboard",
+      "name": "Habit Tracker",
+      "indexPath": "habit-dashboard/index.html",
+      "extensionPoint": "MAIN_MENU_ITEM",
+      "iconPath": "habit-dashboard/widget-icon.svg",
+      "description": "Track your daily habits with streaks and progress"
     }
   ]
 }
